@@ -99,6 +99,8 @@ public class MainActivity extends ActionBarActivity {
 
 		lvNav = (ListView) findViewById(R.id.nav_list);
 
+		//Navigation list Menu
+
 		listNavItems = new ArrayList<NavItem>();
 		listNavItems.add(new NavItem("Welcome" + " " + name , "Overview, Dashboard", R.drawable.ic_action_home));
 		listNavItems.add(new NavItem("Nutrition", "Diet and Chart, Food", R.drawable.ic_action_nutrition));
