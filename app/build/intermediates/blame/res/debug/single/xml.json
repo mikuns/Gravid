@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_settings.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\xml\\pref_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_notification.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\xml\\pref_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_data_sync.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\xml\\pref_data_sync.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_general.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\xml\\pref_general.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pref_headers.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\xml\\pref_headers.xml"
+    }
+]

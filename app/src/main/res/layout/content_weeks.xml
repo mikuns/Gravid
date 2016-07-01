@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="2dp"
+    android:paddingLeft="2dp"
+    android:paddingRight="2dp"
+    android:paddingTop="2dp"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.demo.gravid.WeeksActivity"
+    tools:showIn="@layout/activity_weeks">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle=""/>
+
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#fff"
+                android:id="@+id/CustomWeekList"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="0.7" />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".MainActivity"
+                android:background="#3434"
+                android:layout_weight="0.3">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:weightSum="10">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="600dp"
+                        android:id="@+id/Weeks_image"
+                        android:src="@drawable/week_1"
+                        android:padding="4dp" />
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:layout_marginTop="5sp"
+                        android:layout_marginBottom="0sp"
+                        android:background="#559b4d" />
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="4">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Week Infromation"
+                            android:textSize="30sp"
+                            android:textStyle="bold"
+                            android:layout_marginLeft="5dp"
+                            android:textColor="#559b4d" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wk_d"
+                            android:id="@+id/CustomWeekView1"
+                            android:textSize="25sp"
+                            android:textStyle="bold"
+                            android:layout_margin="5dp" />
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:layout_marginTop="5sp"
+                            android:layout_marginBottom="0sp"
+                            android:background="#559b4d" />
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="4">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Week Symptoms"
+                            android:textSize="30sp"
+                            android:textStyle="bold"
+                            android:id="@+id/textView2"
+                            android:layout_margin="5dp"
+                            android:textColor="#559b4d" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/wk_s"
+                            android:id="@+id/CustomWeekView2"
+                            android:textSize="25sp"
+                            android:textStyle="bold"
+                            android:layout_margin="5dp" />
+                    </LinearLayout>
+
+                </LinearLayout>
+            </ScrollView>
+
+        </LinearLayout>
+
+</RelativeLayout>

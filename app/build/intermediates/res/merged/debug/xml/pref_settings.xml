@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+       <com.demo.models.DatePickerPreference
+            android:key="dueDate_pref"
+            android:title="DueDate"/>
+    <PreferenceCategory
+        android:title="Calculate Due Date">
+
+
+        <SwitchPreference
+            android:key="switch_pref"
+            android:title="Calculate Due Date"
+            android:defaultValue="false"
+            android:summaryOn="ON"
+            android:summaryOff="OFF"
+            android:disableDependentsState="false"/>
+
+        <com.demo.models.DatePickerPreference
+            android:key="dlpDate_pref"
+            android:dependency="switch_pref"
+            android:title="First Day of Last Period"/>
+    </PreferenceCategory>
+
+
+
+
+</PreferenceScreen>

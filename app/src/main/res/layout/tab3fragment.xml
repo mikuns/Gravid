@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/tab3layout"
+    android:gravity="center">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="@string/activity_trimester"
+            android:textStyle="bold"
+            android:textColor="#3c763d"
+            android:id="@+id/trim_current"
+            android:layout_margin="2dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="600dp"
+            android:src="@drawable/week_1"
+            android:id="@+id/trimImageView"
+            android:contentDescription="@string/activity_trimester"
+            android:layout_margin="10dp"
+            android:cropToPadding="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:scaleType="fitXY" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/activity_wk"
+                android:textStyle="bold"
+                android:textSize="20sp"
+                android:id="@+id/textView"
+                android:layout_gravity="center_vertical" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/trim_wk"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_gravity="center_vertical"
+                android:singleLine="true"
+                android:layout_marginLeft="5dp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="10dp"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:background="@drawable/border"
+                    android:layout_marginRight="2dp"
+                    android:padding="5sp"
+                    android:gravity="center_horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="25sp"
+                        android:text="@string/activity_info"
+                        android:textStyle="bold"
+                        android:textColor="#3c763d"
+                        android:gravity="center"/>
+
+                    <TextView
+                            android:id="@+id/trim_info"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="25sp"
+                            android:text=""
+                            android:textStyle="bold"
+                            android:textColor="#000000"
+                        android:layout_marginTop="10dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:padding="5sp"
+                    android:background="@drawable/border"
+                    android:layout_marginLeft="2dp"
+                    android:gravity="center_horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView7"
+                        android:textSize="25sp"
+                        android:text="@string/activity_sym"
+                        android:textStyle="bold"
+                        android:textColor="#3c763d"
+                        android:gravity="center"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="25sp"
+                        android:textStyle="bold"
+                        android:textColor="#000000"
+
+                        android:text=""
+                        android:id="@+id/trim_sym"
+                        android:layout_marginTop="10dp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Click To View All Weeks"
+            android:padding="3dp"
+            android:layout_margin="5dp"
+            android:id="@+id/weeksbtn"
+            android:background="#3c763d"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="#fff" />
+    </LinearLayout>
+</ScrollView>

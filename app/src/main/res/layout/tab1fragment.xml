@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/ic_gravid_preg4">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:id="@+id/tab1Linear">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:baselineAligned="false"
+            android:background="@drawable/shape1"
+            android:padding="10dp"
+            android:layout_margin="25dp"
+            android:id="@+id/due_linearL_id">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Click To Change Due Date"
+                android:textColor="#fff"
+                android:id="@+id/textView6"
+                android:textStyle="normal|bold"
+                android:textSize="20sp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="Feb 12, 2016"
+                android:id="@+id/dueDate_tv"
+                android:password="false"
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/offLayout">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="35sp"
+                    android:gravity="center">
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:text="Days to go!"
+                        android:id="@+id/textView11"
+                        android:layout_margin="5dp"
+                        android:background="#47871a"
+                        android:gravity="center"
+                        android:textColor="#fff"
+                        android:textStyle="bold"
+                        android:textSize="23sp"
+                        android:textIsSelectable="true" />
+
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="match_parent"
+                        android:text="Current Week"
+                        android:id="@+id/textView13"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:textColor="#fff"
+                        android:background="#47871a"
+                        android:textSize="23sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:paddingTop="0dp"
+                    android:paddingLeft="3dp"
+                    android:paddingRight="3dp"
+                    android:paddingBottom="3dp">
+
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:text="100"
+                        android:id="@+id/countDown_tv"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/shape"
+                        android:gravity="center"
+                        android:textColor="#fff"
+                        android:textStyle="bold"
+                        android:textSize="80sp"
+                        android:textIsSelectable="true" />
+
+
+                    <TextView
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:text="4"
+                        android:id="@+id/week_tv"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:textColor="#fff"
+                        android:background="@drawable/shape"
+                        android:textSize="80sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:id="@+id/textView10"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="12dp"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:padding="2dp">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:gravity="center">
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Month"
+                        android:id="@+id/Month123"
+                        android:layout_margin="5dp"
+                        android:background="#47871a"
+                        android:gravity="center"
+                        android:textColor="#fff"
+                        android:textStyle="bold"
+                        android:textSize="25sp"
+                        android:textIsSelectable="true" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/textView22"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:textSize="25sp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"
+                        android:text="Week"
+                        android:background="#47871a" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="wrap_content"
+                        android:text="Day"
+                        android:id="@+id/textView23"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:textColor="#fff"
+                        android:background="#47871a"
+                        android:textSize="25sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center">
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:text="6"
+                        android:id="@+id/waitMonths_tv"
+                        android:layout_margin="5dp"
+                        android:background="@drawable/shape"
+                        android:gravity="center"
+                        android:textColor="#fff"
+                        android:textStyle="bold"
+                        android:textSize="60sp"
+                        android:textIsSelectable="true" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:text="2"
+                        android:id="@+id/waitWeeks_tv"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:textSize="60sp"
+                        android:textStyle="bold"
+                        android:textColor="#ffffff"
+                        android:background="@drawable/shape" />
+
+                    <TextView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:text="22"
+                        android:id="@+id/waitDays_tv"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:textColor="#fff"
+                        android:background="@drawable/shape"
+                        android:textSize="60sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="15sp"
+                android:layout_marginBottom="15sp"
+                android:id="@+id/textView18"
+                android:background="#559b4d" />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="You are in your "
+                    android:id="@+id/textV1"
+                    android:textStyle="bold"
+                    android:textSize="25sp"
+                    android:textColor="#000"
+                    android:layout_marginRight="3dp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="1st Trimester"
+                    android:id="@+id/trimester_tv"
+                    android:textSize="27sp"
+                    android:textStyle="bold"
+                    android:textColor="#fff" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:id="@+id/textView17"
+                android:background="#000000" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#90ab8f"
+                android:layout_margin="5dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textTipTitle"
+                    android:text="Need To Know"
+                    android:textColor="#000"
+                    android:textSize="25sp"
+                    android:textStyle="bold"
+                    android:layout_margin="5dp"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textTipText"
+                    android:text="TIP"
+                    android:textSize="30sp"
+                    android:textStyle="bold"
+                    android:textColor="#fff"
+                    android:layout_margin="5dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+</ScrollView>

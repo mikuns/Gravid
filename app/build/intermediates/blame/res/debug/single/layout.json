@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_complications.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\fragment_complications.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_dict.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_dict.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\med3fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\med3fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nut1fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\nut1fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comp1fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\comp1fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exer3fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\exer3fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dictionary.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_dictionary.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab1fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\tab1fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_doctor_view_p.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_doctor_view_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comp2fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\comp2fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_diag.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_doctor_diag.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\med2fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\med2fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\weeks_listview.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\weeks_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_nutrition.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\fragment_nutrition.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_health.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\fragment_health.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_qanda.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\fragment_qanda.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_item.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\row_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_about.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splashscreen.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_doctor.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_view.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_doctor_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_doctor_view_all.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_doctor_view_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nut3fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\nut3fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\med1fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\med1fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_yourbaby.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\fragment_yourbaby.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_weeks.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_weeks.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exer1fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\exer1fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\exer2fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\exer2fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab3fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\tab3fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_doctor_new_d.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_doctor_new_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab2fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\tab2fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_doctor_diag.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_doctor_diag.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_view_p.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_doctor_view_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_doctor_new_p.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_doctor_new_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_list.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\card_view_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_weeks.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_weeks.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reset_dialog.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\reset_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forum.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nut2fragment.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\nut2fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_new_d.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_doctor_new_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_search.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\content_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabs_viewpager_layout.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\tabs_viewpager_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dict.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_dict.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_nav_list.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\item_nav_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_new_p.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_doctor_new_p.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_medication.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\fragment_medication.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_doctor_view_all.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\src\\main\\res\\layout\\activity_doctor_view_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\AYOMIKUN\\Documents\\Android Projects\\My Project Backup\\GRAVID APPLICATION\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    }
+]

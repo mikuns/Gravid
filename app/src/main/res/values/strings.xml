@@ -1,0 +1,1323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="app_name">Gravid</string>
+    <string name="hello_world">Aiding Antenatal Care</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_opened">Drawer Opened</string>
+    <string name="drawer_closed">Drawer Closed</string>
+    <string name="imageTab1">Week 1</string>
+    <string name="imageTab2">Week 2</string>
+    <string name="imageTab3">Week 3</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_doctor">Doctor\'s Portal</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+
+    //settings
+    <string name="action_search">Search</string>
+    <string name="action_set">Settings</string>
+    <string name="action_reset">Reset Account</string>
+    <string name="action_about">About</string>
+    <string name="action_signOut">Sign Out</string>
+
+    <string name="logo_desc">App logo</string>
+    <string name="title_activity_search">SearchActivity</string>
+    <string name="large_text">
+
+    </string>
+    <string name="title_activity_dictionary">DictionaryActivity</string>
+    <string name="text_to_speech">Convert Text to Speech</string>
+    <string name="title_activity_search_adapter">SearchAdapterActivity</string>
+
+    <string name="country_name">Nigeria</string>
+
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="dlp_default_summary">Pick first Day of Last Menstrual Cycle</string>
+    <string name="pref_due_date_def_summary">Pick due date</string>
+    <string name="pref_avg_cycle_summary">Enter Average Menstrual Cycle</string>
+    <string name="pref_weight_def_summary">Enter Weight before Pregnancy</string>
+    <string name="tracker_countDown">Days To Go</string>
+    <string name="current_week">WEEK</string>
+
+    <string name="pref_title_due_date">Due Date</string>
+    <string name="tracker_dueDate">DUE DATE</string>
+    <string name="due_date_initial_summary">Set Due Date</string>
+
+    <string name="activity_trimester">Current Trimester</string>
+    <string name="activity_info">This Weeks Info</string>
+    <string name="activity_sym">Weeks Symptoms</string>
+    <string name="activity_wk"> Congrats, you are in week </string>
+    <string name="title_activity_dict">DictActivity</string>
+    <string name="symptoms_text">
+         <![CDATA[
+             <ul>
+                    <li>You would have physical emotional and hormonal changes</li>
+                    <li>Aversion for food </li>
+                    <li>Nausea morning sickness</li>
+                    <li>Tender breast</li>
+                    <li>Frequent urination</li>
+                    <li>Irritability</li>
+                    <li>Milled abdominal cramps if several contact a doctor</li>
+                    <li>Gas</li>
+                    <li>Fatigue</li>
+                    <li>Dizziness</li>
+                  <li>Baby bump due to a swearing</li>
+            </ul>
+        ]]>
+    </string>
+    <string name="title_activity_about">About Gravid</string>
+    <string name="title_activity_reset">Reset Account</string>
+    <string name="about_info">Gravid Care is a mobile application for pregnant women that provides antenatal care throughout the 9 months.
+    It an intelligent prenatal health care system for improving the quality of the fetus and ultimately reducing child mortality rate.
+    The health of the mother is mostly closed to the health and survival of the child, infants born to mothers lacking prenatal care are
+        five times more likely to die. Without prenatal care, infants are more likely to have negative health outcomes upon birth.
+        In order to ensure adequate health outcomes both for the infant and the mother, maternal care, and prenatal care in particular,
+        must be provided and utilized. Having a healthy pregnancy is one of the best ways to promote a healthy birth. Getting early
+        and regular prenatal care improves the chances of a healthy pregnancy. </string>
+    <string name="about_version">Version 1.0 \n Ayomikun Samuel</string>
+    <string name="dummy">symptoms
+Substances that can harm your growing baby and should be avoided include alcohol, illegal drugs, certain medications and foods. Caffeine and smoking should be discussed with your health care provider.
+At this stage of pregnancy, there are very few expected symptoms however some women may have mild cramping and an increase in vaginal discharge during the ovulatory stage
+</string>
+
+    <!--Pregnancy Questions-->
+    <string-array name="questions_all">
+        <item>I am always feeling nausea, so I can\’t eat in the morning; what to do? </item>
+        <item><b>What if I have severe vomiting, should I take medication? </b></item>
+        <item><b>Sometimes, I have heart burns that seems like my heart is on fire, What should I do? </b></item>
+        <item><b>I notice I have hardened stool (bowel habit worse)?</b></item>
+        <item><b>Sometimes I bleed while stooling? </b></item>
+        <item><b>I have mild abdominal pains? </b></item>
+        <item><b>Should a pregnant woman eat for two? </b></item>
+        <item><b>Why do innie belly buttons pop out during pregnancy, but not weight gain? </b></item>
+        <item><b>If you have a painful urination, like a burning when I urinate, or I urinate more frequently than normally? </b></item>
+        <item><b>What if I am over weight before my pregnancy, should I still eat a lot? </b></item>
+        <item><b>How many clinic visits are required of me? </b></item>
+        <item><b>What are the symptoms of pregnancy? </b></item>
+        <item><b>I eat healthy, so should I take prenatal vitamins?</b> </item>
+        <item><b>Is it safe to dye my hair during pregnancy? </b></item>
+        <item><b>Can having sex affect the baby? </b></item>
+        <item><b>When should I contact my doctor immediately? </b></item>
+        <item><b>I experience severe leg cramps while sleeping, what should I do? </b></item>
+        <item><b>I am severely constipated, also sometimes I pass blood from the stool? </b></item>
+        <item><b>How to minimize morning sickness. </b></item>
+
+    </string-array>
+
+    <!--Pregnancy Answers-->
+    <string-array name="answers_all">
+        <item>Eat some snacks b4 getting up e.g. \n 1-2 pieces of salty crackers or 1 piece of bread, \n eat small frequent food, \n avoid eating fried, \n deep fried or oily food. </item>
+        <item>Please consult a doctor; don\’t take any drug.</item>
+        <item>This is due to hormonal changes, \n Just eat small frequent meals; chew slowly and thoroughly, \n Avoid spicy an oily food.</item>
+        <item>Constipation: caused by imbalanced diet, lack of exercise or physical activities: because, during pregnancy, hormonal changes causes relaxation of intestinal muscles which slows down the bowel movement. \n Try: drink sufficient fluid (8-12 glass of drink every day); warm or slightly hot drinks are preferable. \n
+        Eat a balanced diet: avoid eating too much fat and protein. \n Adequate exercise/physical activities, \n Eat foods high in fibre like fruits and vegetables, \n
+        Note: Don\’t take non-prescription laxatives. </item>
+        <item>They are common problems during pregnancy. \n
+        They are called Haemorrhoids: Enlarged and swollen veins in or around lower rectum and anus. \n
+            Causes: increased intra-abdominal pressure leading to poor blood circulation in the anal veins. \n Occurs during late gestation.\n Constipation and prolong standing worsens the problem.\n
+        Passing large stool also cause bleeding of the haemorrhoids. \n What to do: \n Keep bowel open.\n If the haemorrhoids is severe or heavy bleeding; seek medical advice promptly. </item>
+        <item>Causes: constipation, labour contraction (), stretching of uterine ligament. \n
+        Wat to do: \n Have adequate rest. \n Keep bowel open</item>
+        <item>Pregnant women need some extra nutrient but no need to  eat for two, gaining too much weight can make you more likely to have a big baby which makes delivery tougher or can which can lead to C section. </item>
+        <item>The growing fetus, uterus, and buildup of amniotic fluids cause the abdomen to expand rapidly during pregnancy. So much pressure so fast stretches the skin and ultimately turns an \“innie\” navel into an "\outie.\" During normal weight gain, the stretching is much more gradual, so there\’s no intense, outward push on the abdomen. If your transformed belly button alarms you, don\’t worry: It should become an innie again in a few months post-delivery. On the off-chance that it doesn\’t (this happens infrequently), minor plastic surgery could restore innie status. </item>
+        <item>Call your doctors, they are signs of bladder infection. </item>
+        <item>Visit your doctor to estimate your food intake and exercise routine. </item>
+        <item>It varies, you first need a first visit and from there, your doctor will schedule your visits. Although if you notice anything strange, don\’t hesitate to visit your doctor. </item>
+        <item>It starts when you lose your period, then around the 5th or 6th months comes nausea and vomiting which occur with almost all pregnant women. </item>
+        <item>Yes because most women won\’t be eating nutritious food in the 1st trimester which are very curial. </item>
+        <item>Avoid contact with chemical like bleach and die during pregnancy, you can make use of wax. </item>
+        <item>Avoid sex during the first and second trimester, you can try it in the third trimester when the baby is fully formed. </item>
+        <item>When you notice any bleeding, visual disturbances, swelling of feet, vomiting, continuous headache.</item>
+        <item>They occur due to vitamin E deficiency, so vitamin E is needed</item>
+        <item>Constipation can be avoided by eating a better diet containing fiber</item>
+        <item>Eating little and often, Minimizing fatty foods which are harder to digest.</item>
+
+
+    </string-array>
+
+    <!-- TIPS FOR THE DASHBOARD TAB-->
+    <string-array name="tips">
+        <item><b>The first thing to do when you know you are pregnant is to find a doctor.</b></item>
+        <item>Antenatal care should ideally begin before the patient becomes pregnant. </item>
+        <item>Don\’t exhaust yourself</item>
+        <item>Don\’t get yourself shocked </item>
+        <item>Drink plenty of fluid during the day but cut down before bed time to minimize frequent night time urination</item>
+        <item>Stress and anxiety prevents good night sleep, worrying won\’t help you but talking about your issues will. Find a friend or professional to talk to. </item>
+        <item>Don\'t eat big meals. Instead, eat several small meals throughout the day. Take your time eating and chew thoroughly. </item>
+        <item>Don\'t eat close to bedtime. Give yourself two to three hours to digest before you lie down. </item>
+        <item>Wear loose, comfortable clothing. Avoid any tightness around your waist and tummy. </item>
+        <item>Bend at the knees instead of at the waist. </item>
+        <item>Don\'t smoke. In addition to contributing to a host of serious health problems, smoking boosts stomach acidity. (Ideally, smoking is a habit you should break before getting pregnant. If you\'re still smoking and are having trouble quitting, ask your caregiver for a referral to a smoking-cessation program.) </item>
+        <item>Don\’t eat for two, gaining too much weight can make you more likely to have a big baby which makes delivery tougher or can which can lead to c section. </item>
+        <item>Sleep on your side</item>
+        <item>Beware of cat fesses which spread a Paracetic infection called toxo plasmosis which can causes problems for the baby like stillbirth, blindness or mental. The infection can come from contaminated food, so hygiene is of high importance. </item>
+        <item>Keep up with Oral care; Brush well and get regular dental care because hormonal shift can make you more susceptible to gum disease. </item>
+        <item>Pregnancy makes you more vulnerable to flu complications like pneumonia, so get vaccinated. </item>
+        <item>Don\’t smoke, it can cause preterm delivery, miscarriage, low birth rate, growth restriction, birth defect. </item>
+        <item>Don\’t eat risky foods (raw or rare meat, raw or undercooked eggs)</item>
+        <item>Don\’t eat high mercury fish; salt fish, shark, swordfish, king mackerel and tilefish. Even low mercury fish like catfish should be kept to minimum</item>
+        <item>Don\’t use high levels of caffeine</item>
+        <item>Get out of bed slowly</item>
+        <item>Get enough sleep</item>
+        <item>Avoid drinking fluids during meals (mixing solids and liquids can increase NVP (Nausea and Vomiting of Pregnancy) because it can make the stomach feel fuller and in some women can cause bloating, gas, and acid reflux) </item>
+        <item>Avoid sour or sweet drinks</item>
+        <item>Eat small, frequent meals of bland foods to avoid the \“empty\” feeling in the stomach</item>
+        <item>Eat a few crackers or dry toast</item>
+        <item>Avoid spicy, fried, or fatty foods</item>
+        <item>Avoid strong odours</item>
+        <item>Get some fresh air</item>
+        <item>Avoid getting too warm</item>
+        <item>Eat foods high in fibre to lower the risk of constipation, which may make feelings of NVP (Nausea and Vomiting of Pregnancy) worse</item>
+        <item>Spit excess saliva and wash out mouth (excess saliva can increase symptoms of  NVP (Nausea and Vomiting of Pregnancy)) </item>
+        <item>Relax, rest and get into the fresh air as much as possible. Keep rooms well ventilated and odour free. </item>
+        <item>Don\’t have hot bath</item>
+        <item>Don\’t use toxic chemical </item>
+        <item>Avoid insecticides, avoid paint, avoid dying of hair</item>
+        <item>Don\’t ignore depression; don\’t suffer in silence, talk to doctor or midwife</item>
+        <item>Pregnancy increases the risk of urinary tract infections from weeks 6-24, so if your symptoms are not simply from the pregnancy and you suspect an infection, speak with your health care provider about treatment.</item>
+        <item>Antenatal care is individualized according to the risk factors associated with different woman, so it\’s different for different women. </item>
+
+        <item> If you have gained more than the recommended amount of weight in the pregnancy, do not diet to lose weight. Cutting out food and calories can put you and your baby at risk. </item>
+        <item>Thoroughly wash all fruits and vegetables. </item>
+        <item> Too much caffeine isn\’t good for your baby and can affect the growth of the baby.</item>
+        <item> Some women don’t experiences weight gain.</item>
+        <item> For Leg cramps, massage does the trick.</item>
+        <item> It\'s critical to get a sufficient daily dose of folic acid before conception and during the first trimester of pregnancy </item>
+        <item> For some women, they would be a line in the middle of their belly which is called line nigra which may fade away after delivery.</item>
+        <item> For some women, their eyes may feel dry, so try to use eye drops, avoid wearing contact lenses for long periods.</item>
+        <item>Hydrate well and excessive gently to relieve stress.</item>
+        <item> The best position for sleep is at your side; because if you lie on your back, your uterus may press on your major blood vessels, and restrict venous return to the heart. Try putting a pillow behind you so not to turn over.</item>
+        <item>Avoid using cleaning products or chemicals like dying agent because it make contain harmful chemicals.</item>
+        <item>Drinks a lot of water and avoid standing or sitting for long periods.</item>
+        <item>If you experience facial swelling or eye puffiness, contact you doctor.</item>
+        <item> Do not eat raw or undercooked seafood, poultry and meat. </item>
+        <item> It is safe to have sex from the 31st week because it helps to make the cervix more favorable and create contractions </item>
+        <item> Do not jump up immediately from a sitting position, as you may become dizzy.</item>
+        <item> When driving a car, put the seat belt beneath your bump. </item>
+        <item> From the 36th week, your baby is regarded full term. If you notice any vaginal bleeding, constant abdominal pain, persistent or severe headache or blurred vision, visit the hospital immediately.</item>
+        <item>Some women\’s belly button or navel protrude or extend out but would disappear few months after delivery.</item>
+        <item> You may have leaking water before contractions begin, if this happens, labour needs to be induced. Induced Labour is the use of medication and other techniques to bring on contraction so as to speed up contraction. </item>
+        <item> if you pass your due date, you need to do a fetal test to ensure that it\’s safe to continue or if it\’s necessary to induce labour.</item>
+        <item>Do not be stressed out, rest and get enough sleep because once the baby comes, you won\’t get enough sleep.</item>
+        <item> You may be anxious about when your water will break, or when labour will start. Try to relax</item>
+        <item> Make sure you are not excessively overweight which may put you at higher risk of developing hypertension or diabetes</item>
+        <item>Towards the end of the 3rd trimester; from the 37th week, visit the doctor every week.</item>
+        <item> If you\'re a vegetarian and don\'t eat any dairy products, it is important that you speak with your doctor about regularly taking a B12 supplement. </item>
+
+        <item>When you pee, lean forward to help completely empty your bladder.</item>
+        <item>Don\’t let your bladder get too full, so don\'t ignore the urge to pee.</item>
+
+
+    </string-array>
+
+    <!--Pregnancy Week Information-->
+    <string-array name="weeks_Data">
+        <item>Congratulations, you\'re pregnant! The early stages of pregnancy are such an exciting time and you\’ll probably be bubbling over with questions about what happens next!
+        Right now your uterus has begun preparing for the arrival of a fertilized egg, though you won\'t know for sure that egg has successfully matched up with sperm until next month. </item>
+        <item>Congratulations, you\'re pregnant! The early stages of pregnancy are such an exciting time and you\’ll probably be bubbling over with questions about what happens next!
+        Right now your uterus has begun preparing for the arrival of a fertilized egg, though you won\'t know for sure that egg has successfully matched up with sperm until next month. </item>
+        <item>Your body is still preparing for ovulation as normal. Substances that can harm your growing baby and should be avoided include alcohol, illegal drugs, certain medications and foods. Caffeine and smoking should be discussed with your health care provider. </item>
+        <item>Right now, the fetus is still quite tiny, the size of a poppy seed. </item>
+        <item>You are now 5 weeks pregnant and have entered what is called the embryonic period of development; during this time your baby\'s major organ systems and structures will develop. </item>
+        <item>During week 6 of pregnancy, your baby will be taking huge developmental strides; your baby\'s vital organ systems begin forming or are continuing to grow. </item>
+        <item>Pregnancy increases the risk of urinary tract infections from weeks 6-24, so if your symptoms are not simply from the pregnancy and you suspect an infection, speak with your health care provider about treatment. </item>
+        <item>During week 8 of pregnancy, your baby will continue taking huge developmental strides; your baby\'s vital organ systems are continuing to grow. Your baby is growing rapidly in all directions and has begun to move.
+        Your little boy or girl is now also able to begin using your uterus as a swimming pool - yup, he or she can now swim, as the amniotic fluid increases weekly by about 2 tablespoons. </item>
+        <item>During week 9 of your pregnancy, your baby, who only last week was in the embryonic stage, has now progressed to the fetal stage. Week 9 continues to bring rapid growth with huge developmental strides. </item>
+        <item>During week 10 of your pregnancy, your baby is starting to look less like an alien and more like the cute little human that he or she will be by the time of birth. </item>
+        <item>During week 11 of your pregnancy, your baby is starting to look more like a baby - an actual human baby! Your baby is not only busy growing but also moving around like a tiny acrobat. </item>
+        <item>During week 12 of your pregnancy, your baby\'s organ systems have practically all formed and will continue to grow and start functioning as your pregnancy goes on. </item>
+        <item>During week 13 of your pregnancy, your baby\'s organ systems continue to mature and develop. As with other earlier weeks, week 13 is no exception when it comes to rapid growth and huge developmental strides. </item>
+        <item>During week 14 of your pregnancy, your baby\'s organ systems continue to mature and develop, and as with other earlier weeks, week 14 is no exception.
+        Your baby\'s body isn\'t the only thing growing these days. He or she is growing a fine coating of hair called lanugo that keeps your little one warm and toasty. </item>
+        <item>During week 15 of your pregnancy, your baby\'s organ systems continue to mature and develop. As with other earlier weeks, week 15 is no exception when it comes to making developmental strides.
+        In addition to moving around like wild in your uterus, your baby is working on their ability to breathe, suck and swallow during this week. </item>
+        <item>During week 16 of your pregnancy, your baby\'s organ systems continue to mature and develop. As with other earlier weeks, week 16 is no exception when it comes to making developmental strides.
+        During this time, due to increased muscle development, your baby is making facial expressions and, despite their eyelids remaining closed, there is eye movement and perception of light. </item>
+        <item>During week 17 of your pregnancy, your baby\'s organ systems continue to mature and develop. As with other earlier weeks, week 17 is no exception when it comes to making developmental strides.
+        Because your baby can now hear, during this time you may notice that he or she is startled by loud noises in your environment. </item>
+        <item>During week 18 of your pregnancy, your baby\'s organ systems continue to mature and develop. As with other earlier weeks, week 18 is no exception when it comes to making developmental strides
+        You might be the tired one but your baby is the one yawning! He or she is also likely keeping you up with a few jabs, nabs and kicks. </item>
+        <item>During week 19 of your pregnancy, your baby continues to mature and develop and as with other earlier weeks, week 19 is no exception when it comes to developmental strides.
+        During this time, your baby is moving significantly and is also covered in vernix, a cheesy film consisting of lanugo (fine hair), oils and dead skin cells. This covering protects the baby\'s gentle skin from the amniotic fluid. </item>
+        <item>During week 20 of your pregnancy, your baby continues to mature and develop and as with other earlier weeks, week 20 is no exception when it comes to developmental strides. </item>
+        <item>During week 21 of your pregnancy, your baby continues to mature and develop, and as with other earlier weeks, week 21 is no exception when it comes to developmental strides.
+        These rapid changes are keeping your baby busy enough to need some sleep! Your baby is sleeping quite nicely at this point, getting about 12-14 hours of sleep per day. </item>
+        <item>During week 22 of your pregnancy, your baby continues to mature and develop and as with other earlier weeks, week 22 is no exception.
+        During week 22, your baby\'s grip is growing stronger; just wait until your baby grasps your finger for the first time! </item>
+        <item>In week 23 of your pregnancy, your baby continues to mature and develop, and as with other earlier weeks, week 23 is no exception when it comes to developmental strides. </item>
+        <item>In week 24 of your pregnancy, your baby continues to mature and develop, and as with other earlier weeks, week 24 is no exception when it comes to developmental strides.
+        During week 24, your baby\'s reflexes are improving and he or she has a fully formed adorable little face. </item>
+        <item>In week 25 of your pregnancy, your baby continues to mature and develop, and as with other earlier weeks, week 25 is no exception when it comes to developmental strides.
+        During week 25, your baby\'s lungs are preparing to work outside of the womb and are rapidly developing, although they are not mature at this point. </item>
+        <item>During week 26 of your pregnancy, your baby continues to mature and develop, and as with other earlier weeks, week 26 is no exception.
+        During week 26, your baby will open his or her eyes and will also be able to respond to light and sound. </item>
+        <item>Your baby now weighs nearly 875g and will probably measures more than 36cm from head to toe. His eyes open and close, he sleeps and wakes at regular intervals and he may suck a finger or thumb. </item>
+        <item>At about this time, your baby can open his/her eyes and turn her head in your uterus (womb) if he or she notices a continuous, bright light shining from the outside. Your baby is getting used to blinking her eyes, which now have eyelashes.
+        Your baby is settling into the proper position for birth, with his head facing downward (toward your body\'s nearest exit!). </item>
+        <item>On his head, hair is growing well. If you\'re having a boy, his testicles will have descended from near the kidneys through the groin en route to the scrotum. If your baby is a girl, her clitoris is prominent, because it\'s not yet covered by the still-small labia. These will grow to cover it in the last few weeks before birth.
+        Your baby\'s head is getting bigger to make room for the developing brain. Nearly all babies react to sound and light by the end of this week.
+        Your baby\'s nutritional needs reach their peak during the third trimester. You\'ll need plenty of protein, vitamin c, folic acid, iron, and calcium (about 200mg is deposited in your baby\'s skeleton every day), so eat foods rich in these nutrients. </item>
+        <item>Your baby\'s lungs and digestive tract are almost fully developed. She continues to open and shut her eyes. She can probably see what\'s going on inside your uterus (womb), tell light from dark and even track a light source. If you shine a light on your stomach, your baby may move her head to follow the light or even reach out to touch the moving glow. </item>
+        <item>Up until now, your baby\'s movements have been gradually increasing. But from now until the end of your pregnancy, the movements will probably plateau. This doesn\'t mean that they should slow down, but you may notice that the type of movements your baby makes change. As long as you can feel him squirming and kicking, you\'ll know he\'s just fine. </item>
+        <item>From 32 weeks, babies born early have good chance of surviving and thriving. The baby\’s skin is becoming soft and smooth as he or she plumps up in preparation for birth.
+        If your baby is a boy, his testicles should have descended from his abdomen into his scrotum. </item>
+        <item>Your baby may already be getting ready for birth by turning upside-down. Her head should be pointing down, ready for her journey into the world.
+        Your doctor or midwife will be paying careful attention to your baby\'s position in the coming weeks. Some babies do decide to turn back round again. </item>
+        <item>Many women start to notice a tingling sensation or numbness in the pelvic region or pain as they walk. This may be caused by the pelvic joints loosening, ready for labour. If you\'re in pain or hips are sore, mention it to your midwife or doctor. </item>
+        <item>This week, your baby is sporting full-length fingernails and toenails and has a fully developed pair of kidneys. His liver can also process some waste products. </item>
+        <item>Your baby weighs nearly 2.7kg and is about 47cm long from head to toe. You may begin to feel an increased pressure in your lower belly and notice that your baby is gradually dropping. This is called lightening or engagement, and your lungs and stomach will finally get a chance to stretch out a little, breathing and eating should become easier.
+        However, walking may become increasingly uncomfortable. Some women say it feels as if their baby is going to fall out. Also, you may still feel as if you need to go to the toilet all the time. </item>
+        <item>Your baby\'s head is now cradled in your pelvic cavity – surrounded and protected by your pelvic bones. This position clears some much-needed space for her growing legs and buttocks.
+        Many babies now have a full head of hair and then, of course, some babies don\'t have any hair at all. </item>
+        <item>Your baby\'s organ systems are fully developed and in place, but his lungs will be last to reach maturity. </item>
+        <item>It\'s all about watching and waiting now, as your baby could arrive any day.
+        Your baby is shedding the greasy, white substance (vernix caseosa) which has been protecting his skin.
+        And if this week passes and there\'s still no baby? Try not to worry – babies have a habit of not arriving on their scheduled due date. </item>
+        <item>Your baby continues to shed the greasy, white substance (vernix caseosa) which has been protecting her skin.
+        Try to stay calm if your waters break or you start to feel contractions, but do call your doctor or midwife straight away. You may be advised to wait at home until contractions are really under way.</item>
+
+    </string-array>
+
+    <!--Pregnancy Week Symptoms-->
+    <string-array name="weeks_Symp">
+        <item>Bleeding lasting five to seven days, Increased cervical mucous</item>
+        <item>Bleeding lasting five to seven days, Increased cervical mucous</item>
+        <item>At this stage of pregnancy, there are very few expected symptoms however some women may have mild cramping and an increase in vaginal discharge during the ovulatory stage.</item>
+        <item>Some people experience mild vaginal spotting with or without mild cramping. This is referred to as implantation bleeding and may be mistaken for a menstrual period.
+        Generally, this bleeding will resolve on its own. Implantation bleeding is an early sign of pregnancy. However, if the bleeding is heavy, you are experiencing chills, fever or cramps, contact your Doctor. </item>
+        <item>You may also be noticing some early symptoms of pregnancy including mood swings, breast tenderness, exhaustion, waves of nausea and urinary frequencyWee</item>
+        <item>At this stage of your pregnancy, you may not feel very pregnant because there are little if any visible physical body changes. You may, however, begin to experience physical pregnancy symptoms such as:
+        Morning sickness, feeling of being queasy with or without weight gain or loss, Nausea and vomiting, Fatigue, Bloating, Gastrointestinal symptoms such as gas, heartburn and indigestion,
+        Breast tenderness,
+        Food cravings,
+        Increased sense of smell,
+        Urinary frequency and nighttime urination. </item>
+        <item>Morning sickness,
+        Weight gain or loss,
+        Nausea and vomiting,
+        Excess saliva,
+        Food aversions and cravings,
+        Heartburn and indigestion,
+        Urinary frequency,
+        Fatigue,
+        Mild pelvic cramping,
+        Occasional vaginal
+        Spotting,
+        Breast changes such as enlargement, tenderness, tingling, nipple erection, nipple sensitivity, darkening areola and the presence of areolar bumps, which are actually sweat glands, known as Montgomery tubercles. </item>
+        <item>Morning sickness,
+        Moodiness,
+        Weight gain or loss,
+        Nausea and vomiting,
+        Bloating, gas, constipation,
+        Increased sense of smell,
+        Excess saliva,
+        Food aversions and cravings,
+        Heartburn and indigestion,
+        Urinary frequency,
+        Fatigue,
+        Increase in vaginal discharge.
+        Mild pelvic cramping.
+        Occasional vaginal spotting.
+        Breast changes such as enlargement, tenderness, tingling, nipple erection, nipple sensitivity, darkening areola and the presence of areolar bumps, which are actually sweat glands, known as Montgomery tubercles. </item>
+        <item>Weight gain,
+        Heartburn,
+        Indigestion,
+        Nausea and vomiting,
+        Nausea, bloating, gas, constipation,
+        Food aversions,
+        Excess saliva,
+        Fatigue,
+        Frequent urination,
+        Breast changes/tenderness. </item>
+        <item>Fatigue,
+        Nausea and vomiting,
+        Cravings and food aversions,
+        Heartburn and indigestion,
+        Bloating, gas, constipation,
+        Occasional headaches,
+        Changes (increase) in vaginal discharge,
+        Dizziness and faintness,
+        Round ligament pain,
+        Visible veins,
+        Moodiness. </item>
+        <item>At this stage of your pregnancy, you may continue to experience physical pregnancy symptoms such a
+        Increasing appetite with or without food cravings or food aversions,
+        Nausea and vomiting,
+        Fatigue, although you may begin to feel more energetic,
+        Bloating, gas,
+        constipation or heartburn,
+        Breast tenderness and changes,
+        Excessive saliva,
+        Faintness or dizziness,
+        You may begin showing a small baby bump. </item>
+        <item>Dizziness,
+        Changes in sex drive,
+        Less frequent need to urinate,
+        Fatigue,
+        Excessive saliva,
+        Bloating or gas,
+        Heightened sense of smell,
+        Increase in vaginal discharge,
+        Occasional headaches. </item>
+        <item>Breast changes and tenderness,
+        Lessened fatigue,
+        Heartburn or gas,
+        Food cravings and/or aversions,
+        Heartburn, indigestion or constipation,
+        Dizziness,
+        Faintness,
+        Visible veins. </item>
+        <item>Improved energy,
+        Change in appearance of moles or presence of new moles,
+        Weight gain,
+        Improved urinary frequency, nausea and vomiting,
+        Breast growth,
+        Increased appetite,
+        Presence of varicose veins,
+        Stuffy nose. </item>
+        <item>Gum changes (redness, swelling, discomfort, increased sensitivity, bleeding, development of benign bumps),
+        Gingivitis (progression to periodontitis can lead to pre-eclampsia and premature labor),
+        Gastrointestinal problems such as heartburn, indigestion, gas and bloating.
+        Development of varicose veins,
+        Occasional headaches,
+        Feeling faint or lightheaded,
+        Round ligament pain,
+        Foggy Brain. </item>
+        <item>Nasal congestion,
+        Breast growth,
+        Increase in vaginal discharge,
+        Constipation,
+        Varicose veins,
+        Back pain,
+        Bleeding gums. </item>
+        <item>Increased appetite,
+        Nasal congestion,
+        Breast growth of up to two cup sizes,
+        Increase in vaginal discharge
+        Bloating, gas and heartburn/indigestion,
+        Occasional headaches,
+        Faintness/dizziness,
+        Backaches,
+        Stretch marks. </item>
+        <item>Bloating, gas, heart burn and indigestion,
+        Fetal movement,
+        Bleeding gums,
+        Varicose veins,
+        Leg cramps,
+        Swelling in the feet and ankles,
+        Backaches,
+        Dizziness,
+        Aching pelvis and hips,
+        Enlarging feet,
+        Stretch marks. </item>
+        <item>Constipation,
+        Increased appetite,
+        Fetal movement,
+        Stuffy nose,
+        Varicose veins,
+        Leg cramps,
+        Round ligament pain,
+        Backaches,
+        Dizziness,
+        Stretch marks. </item>
+        <item>Stronger nails and fuller hair,
+        Heartburn and indigestion,
+        Increased appetite,
+        Fetal movement,
+        Increased vaginal discharge,
+        Occasional headaches,
+        Varicose veins,
+        Leg cramps,
+        Swelling of the feet and ankles,
+        Belly button protrusion,
+        Dizziness. </item>
+        <item>Stronger nails and fuller hair,
+        Bloating and gas,
+        Increased appetite,
+        Fetal movement,
+        Varicose veins,
+        Backache,
+        Bleeding gums,
+        Stretch marks (around the abdomen). </item>
+        <item>Foot growth,
+        Braxton hicks contractions,
+        Heartburn,
+        Indigestion,
+        Constipation,
+        Increased vaginal discharge,
+        Faintness and dizziness,
+        Leg cramps,
+        Stretch marks,
+        Protruding navel. </item>
+        <item>Foot growth,
+        Red palms and soles of feet,
+        Heat rashes,
+        Skin tags,
+        Stretch marks,
+        Linea nigra present on abdomen (dark line down the center),
+        Skin discoloration (areola and skin freckles darker),
+        Mask of pregnancy (chloasma) - facial skin darkening,
+        Insomnia,
+        Increased appetite,
+        Bloating,
+        Snoring,
+        Forgetfulness,
+        Tingling hands,
+        Bleeding gums. </item>
+        <item>Carpal tunnel syndrome,
+        Red palms and soles of feet,
+        Constipation,
+        Migraines,
+        Lower abdominal aching,
+        Backaches,
+        Leg cramps,
+        Blurry vision,
+        Swollen feet and ankles. </item>
+        <item>Hemorrhoids,
+        Constipation,
+        Heartburn,
+        Indigestion,
+        Varicose veins,
+        Carpal tunnel syndrome,
+        Snoring,
+        Restless leg syndrome,
+        Symphysis pubis dysfunction (pelvic pain),
+        Rapid hair growth. </item>
+        <item>Protruding navel,
+        Insomnia,
+        Bloating and gas,
+        Migraines,
+        Increased vaginal discharge,
+        Forgetfulness (Foggy brain),
+        Clumsiness,
+        Blurred vision,
+        Round ligament pain. </item>
+        <item>Faintness or dizziness,
+        Bleeding gum,
+        Restless leg syndrome,
+        Itchy belly,
+        Stuffy nose,
+        Round ligament pain. </item>
+        <item>Bloating and gas,
+        Faintness or dizziness,
+        Bleeding gum,
+        Itchy belly,
+        Stuffy nose. </item>
+        <item>Constipation,
+        Migraines,
+        Fast-growing nails,
+        Hearth burn or indigestion,
+        Pregnancy brain (foggy brain),
+        Hemorrhoids. </item>
+        <item>Increasing fetal movement,
+        Bloating and gas,
+        Constipation,
+        Stretch marks,
+        Fatigue,
+        Swollen feet and ankles. </item>
+        <item>More frequent urination,
+        Occasional headaches,
+        Varicose veins,
+        Backaches,
+        Clumsiness,
+        Pregnancy brain,
+        Sleeping problems. </item>
+        <item>Bloating and gas,
+        Faintness or dizziness,
+        Leg cramps,
+        Hemorrhoid,
+        Stuffy nose,
+        Constipation. </item>
+        <item>Strong fetal movement,
+        Varicose veins,
+        Round ligament pain,
+        Nail changes,
+        Shortness of breath,
+        Foggy brain,
+        Clumsiness. </item>
+        <item>Bloating and gas,
+        Constipation,
+        Increased vaginal discharge,
+        Hemorrhoids,
+        Backaches,
+        Leg cramps,
+        Stretch marks,
+        Edema (swelling in feet and ankles),
+        Fast-growing hair,
+        Shortness of breath,
+        Insomnia. </item>
+        <item>Heartburn or indigestion,
+        Occasional headaches,
+        Hemorrhoids,
+        Bleeding gums,
+        Skin rashes,
+        Foggy brains,
+        Increasing clumsiness. </item>
+        <item>Heartburn or indigestion,
+        Bloating and gas,
+        Constipation,
+        More frequent urination,
+        Vaginal discharge streaked with blood,
+        Pelvic pain,
+        Itchy belly,
+        Edema (swelling in feet and ankles),
+        Insomnia. </item>
+        <item>Changes in fetal activity,
+        Heartburn or indigestion,
+        Pelvic pain,
+        Varicose veins,
+        Leg cramps,
+        Stretch marks,
+        Breast changes,
+        Foggy brain,
+        Insomnia. </item>
+        <item>More frequent urination,
+        Diarrhea,
+        Itchy belly,
+        Edema (swelling in feet and ankles),
+        Insomnia,
+        Colostrum (leaky breasts). </item>
+        <item>Slowdown in fetal,
+        Heartburn or indigestion,
+        Water breaking,
+        Hemorrhoids,
+        Diarrhea,
+        Backaches,
+        Pelvic pain. </item>
+        <item>Slowdown in fetal activity,
+        Heartburn or indigestion,
+        Cervical dialation or effacement,
+        Diarrhea,
+        Pelvic pain. </item>
+    </string-array>
+
+    <!-- PREGNANCY NUTRIENTS-->
+    <string name="nutrient1">
+<item><![CDATA[
+<p><h1>Calcium</h1></p>
+<p><b>Why you need it</b>: You need calcium throughout your pregnancy to build strong bones and teeth for your baby.</p>
+<p>Remember... your baby\’s bones and teeth start forming in the womb!  Getting enough calcium will help your teeth and bones stay healthy</p>
+<p><b>Sources</b>: milk (all types), cereals, fish, cheese, yogurt, fortified soy beverages etc.</p>
+
+<p><h1>Fat</h1></p>
+<p> Why you need it: Believe it or not, fat should be a part of your pregnancy diet. But make sure it is the right kind of fat (avoid trans fats and look for omega-3s and unsaturated fats). </p>
+<p><b>Sources</b>: Meat, fish, whole-milk dairy products, nuts, peanut butter, avocado, olive and canola oils. </p>
+
+<p><h1>Protein</h1></p>
+<p><b>Why you need it</b>: Protein is essential to the very foundation of your baby\'s growth. Eating enough protein ensures that your little one, from the very beginning, is getting adequate food stores to support cell growth and blood production.</p>
+<p><b>Sources</b>: Look for lean cuts of meat (be wary of lunchmeat, unless it is heated to steaming), fish low in mercury, poultry, egg whites, beans, peanut butter, tofu, and nuts (almonds and cashews are especially protein-rich). </p>
+<p>High protein meals and snacks may help improve symptoms of nausea and vomiting.  Protein foods can include the following, only as tolerated: meat (but avoid liver), fish, poultry, eggs, beans, Nuts etc. </p>
+
+<p><b>Starchy foods (carbohydrates) in pregnancy</b></p>
+<p>Starchy foods are an important source of energy, vitamins and fibre, and are satisfying without containing too many calories. They include bread, potatoes, breakfast cereals, rice, pasta, noodles, maize, millet, oats, sweet potatoes, yams and cornmeal</p>
+
+<p><h1>Vitamins C</h1></p>
+<p>Vitamin C helps you and your baby maintain healthy gums, teeth, and bones. It also assists with iron absorption. </p>
+<p><b>Sources</b>: fruits, Tomatoes, Vegetables, Vitamin C suppleement</p>
+]]>
+</item>
+</string>
+
+<string name="nutrient2"><item>
+<![CDATA[
+<p><h1>Vitamin D</h1></p>
+<p>It regulates the amount of calcium and phosphate in the body.</p>
+<p><b>Why you need it</b>: Both you and Baby need vitamin D to build and maintain healthy bones and teeth. Vitamin D also helps the body\'s absorption of calcium. It helps prevent Rickets</p>
+<p><b>Servings</b>: 10 micrograms each day when the woman is pregnant</p>
+<p><b>Sources</b>: Only a few foods, like egg yolks, fatty fish, margarine and cod liver oil, naturally contain vitamin D. It is often added to fortify milk, dairy products, Soya, breads and cereals, too. Sunlight is another good source of vitamin D. </p>
+
+<p><h1>Folic acid</h1></p>
+<p>It helps prevent neural tube defects (NTDs)—serious birth defects of the spinal cord (such as spina bifida) and the brain (such as anencephaly). Neural tube defects occur at a very early stage of development, before many women even know they\'re pregnant. </p>
+<p>It\'s critical to get a sufficient daily dose of folic acid before conception and during the first trimester of pregnancy.</p>
+<p><b>Sources</b>: beans, peas, pear, greenleafy vegetable, citrus fruits, such as oranges, tangerines, grapefruits, melons, strawberrys and juices, also tomato, potato, watermelon, spinach, collard or turnip greens, okro, and asparagus. </p>
+
+<p><h1>Iron</h1></p>
+<p>It is important during pregnancy as it prevents anemia, a condition in which the body isn\'t able to produce enough healthy red blood cells. </p>
+<p><b>Why you need it</b>:
+Anemia can be a problem for pregnant women. Ensuring that you stay on top of your iron intake can help keep you from becoming anemic (your doctor will check for anemia throughout your pregnancy). Eating iron-rich foods facilitates red blood cell production (too much can make you feel constipated, though, so be sure to speak with your doctor about how much is best for you). </p>
+<p><b>Sources</b>: Lean red meat; spinach; and iron-fortified, whole-grain breads and cereals are all good sources for iron. You may also take a prenatal vitamin with extra iron (speak with your doctor first). </p>
+
+<p><h1>Water</h1></p>
+<p><b>Why you need it</b>: Staying Hydrated during pregnancy is essential because you tend to be dehydrated. Water provides your body with a path for transporting nutrients for you and your growing baby. Water feeds your and Baby\'s cells, balances your bodies acids and salts, and contributes to the cushioning of your cells and organs. Drinking plenty of water also ensures that your baby will have a good level of fluid in which to grow and develop in your womb.</p>
+<p><b>Sources</b>: Although some foods are rich in water (watermelon, for example), drinking water is your best bet. </p>
+<p><b>Servings</b>: Drink 8 to 12, 8-ounce glasses of water every day.</p>
+]]>
+</item>
+    </string>
+
+    <!--PREGNANCY MEDICINE-->
+    <string name="medicine1">
+        <item> <![CDATA[ <b>It is a good idea to check with your doctor or midwife before taking any kind of medicine during pregnancy –
+            even an over-the-counter product. Don\'t take more than the recommended dose and, if possible,
+            <u>avoid taking anything during your first trimester, when your developing baby is most vulnerable.</u></b> ]]></item>
+    </string>
+
+    <!--PREGNANCY FOOD DO'S AND DONT-->
+    <string name="food_fish">
+        <item> <![CDATA[
+        <p><h1>Fish</h1></p>
+
+        Fish are important for your baby\'s brain and eye development.\n
+        Fish is also low in saturated fat and high in protein, vitamin d, and other nutrients that are crucial for a developing baby and a healthy pregnancy.
+        <p>Don\'t eat </p>
+
+        Raw or undercooked fish or shellfish (such as oysters and clams) \n
+        Fish with high levels of mercury, including shark, swordfish, king mackerel, and tilefish (golden or white snapper)\n
+        Refrigerated smoked or pickled fish that\'s unpasteurized, unless heated until steaming \n
+        More than 1 serving a week of canned \"solid white\" or albacore tuna
+
+        <p>Do </p>
+
+        Cook fish to 63 degree Celsius or until opaque in the center.\n
+        <li>Eat up to two servings a week of low-mercury fish, such as salmon, shrimp, pollack, or trout. \n
+]]>
+        </item>
+    </string>
+     <string name="food_egg">
+        <item> <![CDATA[
+        <p><h1>Eggs (they are high in protein and low on fat) </h1></p>
+        <p>Don\'t eat</p>
+
+        Runny or undercooked eggs\n
+        Raw cookie dough or cake batter that contains raw eggs\n
+        Homemade desserts or sauces that contain raw eggs (such as eggnog, ice cream, custard, chocolate mousse, hollandaise sauce,
+         béarnaise sauce, mayonnaise, and Caesar salad dressing) \n
+
+        <p>Do</p>
+
+        Cook eggs until yolks are firm; cook other dishes containing eggs to 71 degree Celsius. \n
+        Use a pasteurized egg product when making food that calls for uncooked eggs.
+]]>
+        </item>
+    </string>
+     <string name="food_cheese">
+        <item> <![CDATA[
+        <p><h1>Cheese</h1></p>
+        <p>Don\'t eat </p>
+
+        Unpasteurized or \“raw milk\” soft cheese. \n
+        Don\’t eat any food made from raw milk. \n
+
+        <p>Do </p>
+
+        Check the label when buying soft cheese to be sure it says \"made with pasteurized milk.\" \n
+
+]]>
+        </item>
+  </string>
+     <string name="food_beverage">
+
+        <item> <![CDATA[
+         <p><h1>Beverages</h1></p>
+        <p>Don\'t drink </p>
+
+        Alcoholic beverages\n
+        Unpasteurized (raw) milk\n
+        Unpasteurized or \"fresh squeezed\" juice\n
+        More than 200 mg of caffeine per day (2 Servings of coffee) \n
+
+        <p>Do </p>
+
+        Watch out for caffeine in tea, soft drinks, energy drinks, chocolate, and coffee ice cream. \n
+        Wash fruit thoroughly before squeezing it for fresh juice
+]]>
+        </item>
+    </string>
+     <string name="food_meat">
+        <item> <![CDATA[
+        <p><h1>Meat & poultry</h1></p>
+        <p>Don\'t eat</p>
+
+        Raw or undercooked meat or poultry \n
+        Refrigerated meat of any kind (ham, turkey, roast beef, hot dogs, bologna, prosciutto, pâté, etc.)
+         Unless heated until steaming (74 degree Celsius) \n
+        Dry, uncooked sausages, such as salami and pepperoni, unless heated until steaming hot \n
+
+        <p>Do </p>
+
+        Use a food thermometer. \n
+        Cook beef, veal, and lamb to 62.8 degree Celsius. \n
+        Cook pork and all ground meats to 71 degree Celsius. \n
+        Cook poultry to 74 degree Celsius
+]]>
+        </item>
+    </string>
+
+     <string name="food_others">
+        <item> <![CDATA[
+        <p><h1>Other foods</h1></p>
+            <p>Don\'t eat </p>
+
+        Prepared salads from the deli (especially if they contain eggs, chicken, ham, or seafood) \n
+        Buffet or picnic food that\'s been sitting out for two or more hours (one hour on a hot day) \n
+        Stuffing cooked inside a bird, unless heated to 74 degree Celsius \n
+        Raw sprouts or any unwashed produce, especially lettuce and cabbage \n
+
+        <p>Do </p>
+        <ul><li>
+        Reheat previously cooked leftovers until steaming hot (74 degree Celsius).\n
+        Keep cold buffet food on ice and hot buffet food steaming hot.\n
+        Peel fruits and vegetables or wash them well.
+]]>
+        </item></string>
+
+    <!--COMPLICATIONS-->
+    <string name="complications1">
+        <item>
+     <![CDATA[
+ <p>
+ Complications of pregnancy are health problems that occur during pregnancy. They can involve the mother\'s health, the baby\'s health, or both.<br/>
+ Some women have health problems before they become pregnant that could lead to complications. Other problems arise during the pregnancy. <br/>
+ Keep in mind that whether a complication is common or rare, there are ways to manage problems that come up during pregnancy.
+ </p>
+
+<h3>Spinal Bifida: </h3>
+<p>It\’s a defect of the spinal cord which leads to walking defect or lack of bowel control in bladder, it can lead to birth defect. </p>
+<p><b>Corrections</b>: <br/>You need more folic acid to prevent it.</p>
+<p><b>Morning sickness</b>: It is most common in the early stages of your pregnancy but sadly it\’s not always limited to the morning! Help minimise the effects by:</p>
+<p> -- Eating little and often, basing meals and snacks on starchy foods like bread, porridge, plain biscuits, crisp-breads, oatcakes, pasta, rice or potatoes;
+<br/> -- 	Minimising fatty foods which are harder to digest;
+<br/> -- 	Choosing quick and easy recipes which need little preparation;
+<br/> -- 	Keeping a couple of plain biscuits beside your bed - it can help to nibble on one before you get up.</p>
+
+<h3>Edema</h3>
+<p>Means swelling caused by fluid in your body\'s tissues. It usually occurs in the hands, face, legs, ankles, and feet.
+ But it can involve your entire body. Edema is the medical term for swelling.</p>
+<p><b>Cause</b>: During pregnancy, edema occurs when body fluids increase to nurture both you and your baby and accumulate in your tissues as a
+result of increased blood flow and pressure of your growing uterus on the pelvic veins and your vena cava (the large vein on the right
+side of your body that returns blood from your lower limbs to the heart).
+Excessive swelling can be one sign of preeclampsia.</p>
+<p><b>Corrections</b></p>
+<p> -- Avoid long periods of standing or sitting;
+<br/> -- Kick up your feet. If possible, elevate your legs when you\'re sitting;
+<br/> -- Sleep on your side. – It helps keep your kidneys humming along, which in turn helps waste elimination and reduces swelling;
+<br/> -- Pregnancy-appropriate exercise;
+<br/> -- Avoid tight elastic-top socks or stockings. Your goal is to let blood and fluids flow as freely as possible;
+<br/> -- Wear comfy shoes;
+<br/> -- Drink lots of water. Drinking eight to ten glasses of water a day will help rid your system of excess sodium and other waste products, minimizing swelling.</p>
+
+<h3>Preeclampsia: </h3>
+<p>Also known as pregnancy-induced hypertension (PIH) or toxemia — is a disorder that generally develops late in pregnancy (after week 20)
+ and is characterized by a sudden onset of high blood pressure, edema(swelling, generally in the feet, ankles and hands) and signs that some
+ organs may not be working normally (including protein in the urine). When the condition is diagnosed before 32 weeks of pregnancy,
+ it\’s known as early-onset preeclampsia. Preeclampsia is more common in first pregnancies. Contact your doctor when you notice it.</p>
+ <p><b>Symptoms</b></p>
+ <p> -- Sudden excessive weight gain that\’s unrelated to eating;
+<br/> -- Severe swelling of the hands and face;
+<br/> -- Swelling of the feet and ankles (edema) that doesn\’t go away after 12 hours of rest;
+<br/> -- Headaches that don\’t respond to acetaminophen (Tylenol);
+<br/> -- Vision changes, including flashing lights or spots, sensitivity to light or blurred or double vision;
+<br/> -- Abdominal pain in the right upper abdomen, where the liver is located (it\’s an organ that can be affected by preeclampsia), or the right shoulder;
+<br/> -- Protein in the urine;
+<br/> -- A rise in blood pressure (to 140/90 or more in a woman who has never before had high blood pressure);
+<br/> -- Rapid heartbeat;
+<br/> -- Scant urine output;
+<br/> -- Nausea and vomiting;
+<br/> -- Exaggerated reflex reactions</p>
+
+<p><b>Complications</b></p>
+<p>If preeclampsia is left untreated, it can:
+<br/> -- Progress to eclampsia, a much more serious pregnancy condition that results in seizures and other more serious consequences for you and your baby;
+<br/> -- Cause preterm delivery;
+<br/> -- Cause intrauterine growth restriction (IUGR);
+<br/> -- Cause placental abruption, or early separation of the placenta from the uterine wall;
+<br/> -- Damage your liver and kidneys </p>
+
+<p><b>Ways to decrease your risk of preeclampsia include</b>:
+<br/> -- Eating healthy;
+<br/> -- Exercising. Talk to your doctor about how much physical fitness you should be getting; many suggest 30 minutes of moderate activity (such as a walk after lunch and dinner) a day;
+<br/> -- Watching your weight;
+<br/> -- Caring for your teeth;
+<br/> -- Taking your prenatal vitamin;
+<br/> -- Sunlight: Exposure to the sun helps your body to produce vitamin D on its own — just 10 to 15 minutes of exposure per week is plenty;
+<br/> -- Fatty fish: Pregnancy-safe fish like salmon and canned light tuna are good sources of vitamin D; experts recommend eating 8 to 12 ounces (that\’s two to three servings) of fish per week;
+<br/> -- Fortified foods: During processing, cereals, orange juice and milk are all enriched with vitamin D</p>
+
+<h3>Urinary Tract Infection (UTI).</h3>
+<p>UTIs are the most common kind of bacterial infection in pregnant women and, if left untreated, can lead to a kidney infection or preterm labor, or both. </p>
+]]>
+    </item></string>
+    <string name="complications2"><item> <![CDATA[
+<h3>Dehydration</h3>
+<p>
+The following list includes signs and symptoms that the pregnant woman should be aware of and needing intervention.</p>
+<p><b>Signs of dehydration include</b>:
+<br/> -- Fatigue,
+<br/> -- Weakness,
+<br/> -- Discomfort,
+<br/> -- Loss of appetite,
+<br/> -- Thirst,
+<br/> -- Dry mouth,
+<br/> -- Reduced urine,
+<br/> -- Dark coloured urine,
+<br/> -- Flushed skin,
+<br/> -- Dry skin,
+<br/> -- Constipation,
+<br/> -- Difficulty concentrating,
+<br/> -- Headache,
+<br/> -- Irritability,
+<br/> -- Sleepiness,
+<br/> -- Dizziness,
+<br/> -- Loss of balance,
+<br/> -- Exhaustion,
+<br/> -- Delirium,
+<br/> -- Collapse
+</p>
+
+
+<h3>Heartburn: </h3>
+<p>Heartburn is common during pregnancy. It\’s caused by the pressure of the growing baby and hormone changes during pregnancy
+that allow stomach acid to move up to your throat.
+</p>
+<p>
+<b>The following suggestions might help</b>:
+<br/> -- Do not lie down after eating;
+<br/> -- When you do lie down, raise your head and shoulders;
+<br/> -- Avoid fried, fatty and spicy foods;
+<br/> -- Drink fluids between meals, not with meals;
+<br/> -- Avoid coffee, colas, alcohol and smoking;
+<br/> -- Eat slowly. Take the time to chew well;
+<br/> -- Eat small, frequent meals and snacks </p>
+<p><b> Try to avoid</b>:
+<br/> -- eating late at night;
+<br/> -- bending, lifting or lying down after meals;
+<br/> -- excessive consumption of tea or coffee.</p>
+]]>
+        </item>
+    </string>
+
+    <string name="health_problems">
+        <item>
+        <![CDATA[
+        <h2> Pregnancy related problems</h2>
+<p>Sometimes pregnancy problems arise — even in healthy women. Some prenatal tests done during pregnancy can help prevent these problems or spot them early. <br/>
+ Use this Data to learn about some common pregnancy complications. Call your doctor if you have any of the symptoms on this chart. <br/>
+ If a problem is found, make sure to follow your doctor\'s advice about treatment. Doing so will boost your chances of having a safe delivery and a strong, healthy baby.</p>
+
+        <h3>Anemia </h3>
+<p>it\’s common during pregnancy due to deficiency of iron or folate</p>
+<p>Lower than normal number of healthy red blood cells</p>
+<p>Symptoms</p>
+<p> -- Feel tired or weak
+<br/> --Look pale
+<br/> --Feel faint
+<br/> --Shortness of breath</p>
+<p>Treating the underlying cause of the anemia will help restore the number of healthy red blood cells.
+Women with pregnancy related anemia are helped by taking iron and folic acid supplements.
+Your doctor will check your iron levels throughout pregnancy to be sure anemia does not happen again.
+</p>
+
+        <h3>Depression</h3>
+<p>Extreme sadness during pregnancy or after birth (postpartum)</p>
+<p> -- Intense sadness
+<br/> --Helplessness and irritability
+<br/> --Appetite changes
+<br/> --Thoughts of harming self or baby</p>
+<p>
+Women who are pregnant might be helped with one or a combination of treatment options, including:
+<br/> -- Therapy
+<br/> -- Support groups
+<br/> -- Medicines <br/>
+A mother\'s depression can affect her baby\'s development, so getting treatment is important for both mother and baby. Learn more about depression during and after pregnancy.
+</p>
+
+        <h3>Ectopic (ek-TOP-ihk) pregnancy </h3>
+<p> When a fertilized egg implants outside of the uterus, usually in the fallopian tube </p>
+        <p>Symptoms:
+<br/> -- Abdominal pain
+<br/> -- Shoulder pain
+<br/> -- Vaginal bleeding
+<br/> -- Feeling dizzy or faint
+</p><p>With ectopic pregnancy, the egg cannot develop. Drugs or surgery is used to remove the ectopic tissue so your organs are not damaged. </p>
+
+        <h3>Fetal problems </h3>
+<p>Unborn baby has a health issue, such as poor growth or heart problems </p>
+        <p>Symptoms:
+<br/> -- Baby moving less than normal (Learn how to count your baby\'s movements on our Prenatal care and tests page.)
+<br/> -- Baby is smaller than normal for gestational age
+<br/> -- Some problems have no symptoms, but are found with prenatal tests
+</p><p>Treatment depends on results of tests to monitor baby\'s health. If a test suggests a problem, this does not always mean the baby is in trouble. It may only mean that the mother needs special care until the baby is delivered. This can include a wide variety of things, such as bed rest, depending on the mother\'s condition. Sometimes, the baby has to be delivered early. </p>
+
+        <h3>Gestational diabetes </h3>
+        <p>Too high blood sugar levels during pregnancy </p>
+        <p>Symptoms:
+<br/> -- Usually, there are no symptoms. Sometimes, extreme thirst, hunger, or fatigue
+<br/> -- Screening test shows high blood sugar levels
+</p>	<p>Most women with pregnancy related diabetes can control their blood sugar levels by a following a healthy meal plan from their doctor. Some women also need insulin to keep blood sugar levels under control. Doing so is important because poorly controlled diabetes increases the risk of:
+<br/> -- Preeclampsia
+<br/> -- Early delivery
+<br/> -- Cesearean birth
+<br/> -- Having a big baby, which can complicate delivery
+<br/> -- Baby born with low blood sugar, breathing problems, and jaundice </p>
+
+        <h3>High blood pressure(pregnancy related) </h3>
+<p>High blood pressure that starts after 20 weeks of pregnancy and goes away after birth </p>
+        <p>Symptoms:
+<br/> -- High blood pressure without other signs and symptoms of preeclampsia
+</p>	<p>The health of the mother and baby are closely watched to make sure high blood pressure is not preeclampsia. </p>
+
+        <h3>Hyperemesis gravidarum (HEYE-pur-EM-uh-suhss grav-uh-DAR-uhm) (HG) </h3>
+        <p>Severe, persistent nausea and vomiting during pregnancy — more extreme than \"morning sickness\" </p>
+        <p>Symptoms:
+<br/> -- Nausea that does not go away
+<br/> -- Vomiting several times every day
+<br/> -- Weight loss
+<br/> -- Reduced appetite
+<br/> -- Dehydration
+<br/> -- Feeling faint or fainting
+</p>	<p>Dry, bland foods and fluids together is the first line of treatment. Sometimes, medicines are prescribed to help nausea. Many women with HG have to be hospitalized so they can be fed fluids and nutrients through a tube in their veins. Usually, women with HG begin to feel better by the 20th week of pregnancy. But some women vomit and feel nauseated throughout all three trimesters. </p>
+
+        <h3>Miscarriage</h3>
+<p>Pregnancy loss from natural causes before 20 weeks. As many as 20 percent of pregnancies end in miscarriage. Often, miscarriage occurs before a woman even knows she is pregnant </p>
+        <p>Symptoms:
+<br/> -- Signs of a miscarriage can include:
+<br/> -- Vaginal spotting or bleeding*
+<br/> -- Cramping or abdominal pain
+<br/> -- Fluid or tissue passing from the vagina
+</p>
+<p> Spotting early in pregnancy doesn\'t mean miscarriage is certain. Still, contact your doctor right away if you have any bleeding.</p>	<p>In most cases, miscarriage cannot be prevented. Sometimes, a woman must undergo treatment to remove pregnancy tissue in the uterus. Counseling can help with emotional healing. See our section on Pregnancy loss. </p>
+
+        <h3>Placenta previa </h3>
+<p>Placenta covers part or entire opening of cervix inside of the uterus </p>
+        <p>Symptoms:
+<br/> -- Painless vaginal bleeding during second or third trimester
+<br/> -- For some, no symptoms
+</p>	<p>If diagnosed after the 20th week of pregnancy, but with no bleeding, a woman will need to cut back on her activity level and increase bed rest. If bleeding is heavy, hospitalization may be needed until mother and baby are stable.
+        <br/> If the bleeding stops or is light, continued bed rest is resumed until baby is ready for delivery. If bleeding doesn\'t stop or if preterm labor starts, baby will be delivered by cesarean section. </p>
+
+        <h3>Placental abruption </h3>
+<p>Placenta separates from uterine wall before delivery, which can mean the fetus doesn\'t get enough oxygen. </p>
+        <p>Symptoms:
+<br/> -- Vaginal bleeding
+<br/> -- Cramping, abdominal pain, and uterine tenderness
+</p>	<p>When the separation is minor, bed rest for a few days usually stops the bleeding. Moderate cases may require complete bed rest. Severe cases (when more than half of the placenta separates) can require immediate medical attention and early delivery of the baby. </p>
+
+        <h3>Preeclampsia (pree-ee-CLAMP-see-uh) </h3>
+<p> A condition starting after 20 weeks of pregnancy that causes high blood pressure and problems with the kidneys and other organs. Also called toxemia. </p>
+        <p>Symptoms:
+<br/> -- High blood pressure
+<br/> -- Swelling of hands and face
+<br/> -- Too much protein in urine
+<br/> -- Stomach pain
+<br/> -- Blurred vision
+<br/> -- Dizziness
+<br/> -- Headaches
+</p>	<p>The only cure is delivery, which may not be best for the baby. Labor will probably be induced if condition is mild and the woman is near term (37 to 40 weeks of pregnancy).
+        <br/>If it is too early to deliver, the doctor will watch the health of the mother and her baby very closely. She may need medicines and bed rest at home or in the hospital to lower her blood pressure. Medicines also might be used to prevent the mother from having seizures. </p>
+
+        <h3>Preterm labor </h3>
+<p> Going into labor before 37 weeks of pregnancy </p>
+        <p>Symptoms:
+<br/> -- Increased vaginal discharge
+<br/> -- Pelvic pressure and cramping
+<br/> -- Back pain radiating to the abdomen
+<br/> -- Contractions
+</p>	<p>Medicines can stop labor from progressing. Bed rest is often advised. Sometimes, a woman must deliver early. Giving birth before 37 weeks is called \"preterm birth.\" Preterm birth is a major risk factor for future preterm births. </p>
+]]>
+        </item>
+    </string>
+
+    <string name="drug">
+        <item>
+            <![CDATA[
+
+<h3>  Using medicine </h3>
+
+<p>You and your baby are connected. The medicines you use, including over-the-counter, herbal, and prescription drugs or supplements,
+might get into your baby\'s body, too. Many medicines and herbs are known to cause problems during pregnancy, including birth defects.
+For some medicines, we don\'t know that much about how they might affect pregnancy or the developing fetus.
+This is because medicines are rarely tested on pregnant women for fear of harming the fetus.</p>
+
+<p>Mothers-to-be might wonder if it\'s safe to use medicines during pregnancy. There is no clear-cut answer to this question.
+Your doctor can help you make the choice whether to use a medicine. <br/> Labels on prescription and over-the-counter drugs have information to
+help you and your doctor make this choice. In the future, a new prescription drug label will make it easier for women and their doctors
+to weigh the benefits and risks of using prescription medicines during pregnancy.</p>
+
+<p>Always speak with your doctor before you start or stop any medicine. Not using medicine that you need may be more harmful
+to you and your baby than using the medicine.</p>
+
+<h3>Weighing benefits and risks</h3>
+<p> -- When deciding whether to use a medicine in pregnancy, you and your doctor need to talk about the medicine\'s benefits and the risks.<br/>
+ -- Benefits:What are the good things the medicine can do for me and my growing baby? <br/>
+ -- Risks: What are the ways the medicine might harm me or my growing baby? </p>
+
+<p>There may be times during pregnancy when using medicine is a choice. For example, if you get a cold, you may decide
+  to \"live with\" your stuffy nose instead of using the \"stuffy nose\" medicine you use when you are not pregnant.<br\>
+Other times during pregnancy, using medicine is not a choice — it is needed. <br/> For example, you might need to use medicine
+to control an existing health problem like asthma, diabetes, depression, or seizures. <br/> Or, you might need a medicine for a
+few days, such as an antibiotic to treat a bladder infection or strep throat. Also, some women have a pregnancy problem
+that needs medicine treatment. <br/>
+These problems include
+ <br/> -- severe nausea and vomiting,
+ <br/> -- earlier pregnancy losses, or preterm labor.
+    </p>
+
+
+
+            ]]>
+
+        </item>
+    </string>
+
+    <string name="herbs">
+        <item>
+             <![CDATA[
+
+<h3>Using herbal or dietary supplements and other \"natural\" products
+</h3>
+<p>You might think herbs are safe because they are \"natural.\"
+But, except for some vitamins, little is known about using herbal or
+dietary supplements while pregnant. Some herbal remedy labels claim they
+ will help with pregnancy. <br/>But, most often there are no good studies
+ to show if these claims are true or if the herb can cause harm to you or your baby.
+Also, some herbs that are safe when used in small amounts as food might be harmful when
+used in large amounts as medicines. <br/> So, talk with your doctor before using any herbal or
+dietary supplement or natural product. These products may contain things that could harm you or your growing baby.</p>
+
+            ]]>
+
+        </item>
+    </string>
+
+    <string name="others">
+        <item>
+ <![CDATA[
+
+
+            ]]>
+        </item>
+    </string>
+
+    <string name="safe">
+        <item>
+             <![CDATA[
+
+<h3>Substance abuse</h3>
+<p>Using alcohol and illegal drugs during pregnancy threatens the health of your unborn baby. So does using legal drugs in an inappropriate way. <br/>
+When you use alcohol or drugs, the chemicals you ingest or breathe into your lungs cross the placenta and enter your baby. <br/>
+This puts your baby at risk for such problems as stillbirth, low birth weight, birth defects, behavioral problems, and developmental delays</p>
+<h3>Alcohol</h3>
+<p>When you drink alcohol, so does your baby. Pregnant women should not drink alcohol to eliminate the chance of giving birth to a baby with fetal alcohol spectrum disorder (FASD).
+<br/> FASD involves a range of harmful effects that can occur when a fetus is exposed to alcohol. <br/>
+The effects can be mild to severe. Children born with a severe form of FASD can have abnormal facial features,
+severe learning disabilities, behavioral problems, and other problems.<br/>You might think a drink now and then won\'t hurt your baby.
+But we don\'t know how much alcohol it takes to cause harm. We do know that the risk of FASD, and the likely severity, goes up with the
+amount of alcohol consumed during pregnancy. <br/> Also, damage from alcohol can occur in the earliest stages of pregnancy — often before a woman knows she is pregnant.
+<br/> For this reason, women who may become pregnant also should not drink.</p>
+
+<h3>When to call the doctor</h3>
+<p>
+When you are pregnant, do not hesitate to call your doctor or midwife if something is bothering or worrying you.
+ Sometimes physical changes can be signs of a problem.</p>
+<p>Call your doctor or midwife as soon as you can if you:</p>
+
+<p> -- Are bleeding or leaking fluid from the vagina
+<br/> -- Have sudden or severe swelling in the face, hands, or fingers
+<br/> -- Get severe or long-lasting headaches
+<br/> -- Have discomfort, pain, or cramping in the lower abdomen
+<br/> -- Have a fever or chills
+<br/> -- Are vomiting or have persistent nausea
+<br/> -- Feel discomfort, pain, or burning with urination
+<br/> -- Have problems seeing or blurred vision
+<br/> -- Feel dizzy
+<br/> -- Suspect your baby is moving less than normal after 28 weeks of pregnancy (if you count less than 10 movements within 2 hours.
+ Learn how to count your baby\'s movements on our Prenatal care and tests page.)
+<br/> -- Have thoughts of harming yourself or your baby    </p>
+
+            ]]>
+
+        </item>
+    </string>
+
+    <string name="exercise">
+        <item>
+             <![CDATA[
+<h2>Keeping fit</h2>
+<p>Fitness goes hand in hand with eating right to maintain your physical health and well-being during pregnancy.
+ Pregnant or not, physical fitness helps keep the heart, bones, and mind healthy.<br/>  Healthy pregnant women should get
+ at least 2 hours and 30 minutes of moderate-intensity aerobic activity a week. It\'s best to spread your workouts throughout the week. <br/>
+ If you regularly engage in vigorous-intensity aerobic activity or high amounts of activity, you can keep up your activity level as long
+  as your health doesn\'t change and you talk to your doctor about your activity level throughout your pregnancy.</p><br/>
+<h3>Special benefits of physical activity during pregnancy:</h3>
+<p>Exercise can ease and prevent aches and pains of pregnancy including constipation, varicose veins, backaches,
+    and exhaustion.
+ <br/>  --  Active women seem to be better prepared for labor and delivery and recover more quickly.
+ <br/>  --  Exercise may lower the risk of preeclampsia and gestational diabetes during pregnancy.
+ <br/>  --  Fit women have an easier time getting back to a healthy weight after delivery.
+ <br/>  --  Regular exercise may improve sleep during pregnancy.
+ <br/>  --  Staying active can protect your emotional health. Pregnant women who exercise seem to have better self-esteem and a
+    lower risk of depression and anxiety.
+ <br/> --   Results from a recent, large study suggest that women who are physically active during pregnancy may lower their chances ofpreterm delivery.
+
+<h3>Getting started</h3>
+<p>For most healthy moms-to-be who do not have any pregnancy-related problems, exercise is a safe and valuable habit.
+Even so, talk to your doctor or midwife before exercising during pregnancy. <br/>
+She or he will be able to suggest a fitness plan that is safe for you. <br/>
+Getting a doctor\'s advice before starting a fitness routine is important for both inactive women and women who exercised before pregnancy.<br/>
+If you have one of these conditions, your doctor will advise you not to exercise:</p>
+
+<h3>Risk factors for preterm labor</h3>
+
+<p> -- Vaginal bleeding
+<br/> -- Premature rupture of membranes (when your water breaks early, before labor)
+
+<h3>Best activity for moms-to-be</h3>
+<p>Low-impact activities at a moderate level of effort are comfortable and enjoyable for many pregnant women.
+Walking, swimming, dancing, cycling, and low-impact aerobics are some examples.
+These sports also are easy to take up, even if you are new to physical fitness.<br/>
+Some higher intensity sports are safe for some pregnant women who were already doing them before becoming pregnant.
+If you jog, play racquet sports, or lift weights, you may continue with your doctor\'s okay.</p>
+
+<h3>Keep these points in mind when choosing a fitness plan:</h3>
+<p>Avoid activities in which you can get hit in the abdomen like kickboxing, soccer, basketball, or ice hockey.<br/>
+Steer clear of activities in which you can fall like horseback riding, downhill skiing, and gymnastics.<br/>
+Do not scuba dive during pregnancy. Scuba diving can create gas bubbles in your baby\'s blood that can cause many health problems.</p>
+
+<h3>Tips for safe and healthy physical activity</h3>
+<p>Follow these tips for safe and healthy fitness:</p>
+<p> --When you exercise, start slowly, progress gradually, and cool down slowly.
+<br/> -- You should be able to talk while exercising. If not, you may be overdoing it.
+<br/> -- Take frequent breaks.
+<br/> -- Don\'t exercise on your back after the first trimester. This can put too much pressure on an important vein and limit blood flow to the baby.
+<br/> -- Avoid jerky, bouncing, and high-impact movements. Connective tissues stretch much more easily during pregnancy.
+So these types of movements put you at risk of joint injury.
+<br/> -- Be careful not to lose your balance. As your baby grows, your center of gravity shifts making you more prone to falls.
+For this reason, activities like jogging, using a bicycle, or playing racquet sports might be riskier as you near the third trimester.
+<br/> -- Don\'t exercise at high altitudes (more than 6,000 feet). It can prevent your baby from getting enough oxygen.
+<br/> -- Make sure you drink lots of fluids before, during, and after exercising.
+<br/> -- Do not workout in extreme heat or humidity.
+<br/> -- If you feel uncomfortable, short of breath, or tired, take a break and take it easier when you exercise again.</p>
+
+<h3>Stop exercising and call your doctor as soon as possible if you have any of the following:</h3>
+<p> -- Dizziness
+<br/> -- Headache
+<br/> -- Chest pain
+<br/> -- Calf pain or swelling
+<br/> -- Abdominal pain
+<br/> -- Blurred vision
+<br/> -- Fluid leaking from the vagina
+<br/> -- Vaginal bleeding
+<br/> -- Less fetal movement
+<br/> -- Contractions
+</p>
+
+        ]]>
+
+        </item>
+    </string>
+    <string name="oral">
+        <item>
+             <![CDATA[
+             <h2>Oral Health</h2>
+<p><h3>
+Before you become pregnant, it is best to have dental checkups routinely to keep your teeth and gums healthy. If you are pregnant and have not had regular checkups, consider the following:
+</h3>
+</p> -- Have a complete oral exam early in your pregnancy. Because you are pregnant, you might not receive routine x-rays. But if you must have x-rays for a dental problem needing treatment, the health risk to your unborn baby is small.
+<br/> -- Dental treatment during pregnancy is safe. The best time for treatment is between the 14th and 20th weeks. During the last months of pregnancy, you might be uncomfortable sitting in a dental chair.
+<br/> -- Do not avoid necessary dental treatments — you may risk your and your baby\'s health.
+<br/> -- Use good oral hygiene to control your risk of gum diseases. Pregnant women may have changes in taste and develop red, swollen gums that bleed easily. This condition is called pregnancy gingivitis (jin-juh-VYT-uhss). It can be caused by both poor oral hygiene and higher hormone levels during pregnancy.
+<br/> -- Until recently, it was thought that having gum disease could raise your risk of having a low birth weight baby. Researchers have not been able to confirm this link, but some research is still under way to learn more.
+
+<h3>
+After you give birth, maintain good oral hygiene to protect your baby\'s oral health. Bacteria that cause cavities can transfer from you to your child by:</h3>
+<p>   --A kiss on the mouth
+<br/> -- Letting your baby put her fingers in your mouth
+<br/> -- Tasting food on your baby\'s spoon
+<br/> -- Testing the temperature of a baby bottle with your mouth
+<br/> -- You also should find a dentist for your child by age 1.
+</p>
+            ]]>
+
+        </item>
+    </string>
+    <string name="title_activity_weeks">Weeks Activity</string>
+
+    <string name="wk_d">
+        <item>Congratulations, you\'re pregnant! The early stages of pregnancy are such an exciting time and you\’ll probably be bubbling over with questions about what happens next!
+        Right now your uterus has begun preparing for the arrival of a fertilized egg, though you won\'t know for sure that egg has successfully matched up with sperm until next month. </item>
+   </string>
+    <string name="wk_s"><item>Bleeding lasting five to seven days, Increased cervical mucous</item></string>
+    <string name="pyramid">
+        <item>
+            Shows an ecological hierarchy of food relationships
+        </item>
+    </string>
+    <string name="title_activity_doctor_view_p">View Patient</string>
+    <string name="title_activity_doctor_diag">Add New Patient Diagnosis </string>
+    <string name="title_activity_doctor_new_p">Add New Patient</string>
+    <string name="title_activity_doctor_view_all">View All Patients</string>
+    <string name="title_activity_doctor_new_d">Add New Doctor</string>
+    <string name="title_activity_register">Register to get Started </string>
+    <string name="title_activity_register2">Register2Activity</string>
+    <!-- API key:
+AIzaSyABh9m2vZSSCxN5S32WfVZZmsg8hDNuO-s -->
+</resources>

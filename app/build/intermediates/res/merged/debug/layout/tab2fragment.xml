@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/tab3layout">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Medical Profile"
+            android:padding="3dp"
+            android:layout_margin="5dp"
+            android:id="@+id/weeksbtn"
+            android:background="#3c763d"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#fff" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Weekly Result"
+            android:id="@+id/textView3"
+            android:textColor="#3c763d"
+            android:gravity="center"
+            android:padding="3dp"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_marginBottom="15sp"
+            android:id="@+id/textView18"
+            android:background="#559b4d" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Week 1"
+                android:id="@+id/textView9"
+                android:textStyle="bold"
+                android:textSize="15sp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginBottom="15sp"
+                android:id="@+id/textView19"
+                android:background="#000000" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

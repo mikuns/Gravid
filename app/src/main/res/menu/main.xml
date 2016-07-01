@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.demo.gravid.MainActivity" >
+
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/settings_white"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/action_search"
+        android:title="@string/action_search"
+        android:icon="@drawable/search_white"
+        android:orderInCategory="200"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_about"
+        android:title="@string/action_about"
+        android:icon="@drawable/clear_black"
+        android:orderInCategory="300"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_signOut"
+        android:title="@string/action_signOut"
+        android:icon="@drawable/ic_highlight_off"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+    <item android:id="@+id/action_reset"
+        android:title="@string/action_reset"
+        android:icon="@drawable/clear_black"
+        android:orderInCategory="500"
+        app:showAsAction="never" />
+
+
+
+</menu>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/nut3image0"
+
+            android:src="@drawable/ic_gravid_food2"
+            android:scaleType="fitXY"
+            android:layout_marginTop="9dp"
+            android:layout_marginBottom="9dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/nut3fish"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_margin="3dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/nut3image1"
+
+            android:src="@drawable/ic_gravid_drink1"
+            android:scaleType="fitXY"
+            android:layout_marginTop="9dp"
+            android:layout_marginBottom="9dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/nut3drink"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_margin="3dp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/nut2image1"
+            android:src="@drawable/ic_gravid_food1"
+            android:scaleType="fitXY"
+            android:layout_marginTop="9dp"
+            android:layout_marginBottom="9dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/nut3egg"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_margin="3dp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/nut2image2"
+            android:src="@drawable/ic_gravid_drink2"
+            android:scaleType="fitXY"
+            android:layout_marginTop="9dp"
+            android:layout_marginBottom="9dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/nut3others"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_margin="3dp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/nut3image2"
+            android:src="@drawable/ic_gravid_food"
+            android:scaleType="fitXY"
+            android:layout_marginTop="9dp"
+            android:layout_marginBottom="9dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/nut3meat"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_margin="3dp" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/nut3image3"
+            android:src="@drawable/ic_gravid_cheese"
+            android:scaleType="fitXY"
+            android:layout_marginTop="9dp"
+            android:layout_marginBottom="9dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:id="@+id/nut3cheese"
+            android:textSize="25sp"
+            android:textStyle="bold"
+            android:layout_margin="3dp" />
+    </LinearLayout>
+</ScrollView>
