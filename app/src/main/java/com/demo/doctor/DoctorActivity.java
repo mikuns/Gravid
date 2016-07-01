@@ -57,11 +57,11 @@ public class DoctorActivity extends Activity implements View.OnClickListener {
             else{
                 if(user.equals("admin") && !(pw.equals("admin"))) {
                     doctorPass.requestFocus();
-                    doctorPass.setError("Incorrect Password, Try again");
+                    doctorPass.setError("Incorrect Password, please try again");
                 }
                 if(!user.equals("admin") && pw.equals("admin")) {
                     doctorUser.requestFocus();
-                    doctorUser.setError("Incorrect Username, Try again");
+                    doctorUser.setError("Incorrect Username, please try again");
                 }
                 if(user.equals("admin") && pw.equals("admin")) {
                     SharedPreferences sharedPreferencesDoc = getSharedPreferences("DoctorAccount", Context.MODE_PRIVATE);
