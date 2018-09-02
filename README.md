@@ -1,4 +1,4 @@
-# GRAVIDAPP
+# Gravid
 An antenatal android application to facilitate health care delivery to expectant mothers
 
 # Screenshots
